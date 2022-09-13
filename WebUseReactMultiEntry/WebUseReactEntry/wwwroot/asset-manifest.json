@@ -1,0 +1,32 @@
+{
+  "files": {
+    "static/js/0.eafe9059.chunk.js": "/static/js/0.eafe9059.chunk.js",
+    "static/js/0.eafe9059.chunk.js.map": "/static/js/0.eafe9059.chunk.js.map",
+    "rate.js": "/static/js/rate.27840d94.chunk.js",
+    "rate.js.map": "/static/js/rate.27840d94.chunk.js.map",
+    "runtime-rate.js": "/static/js/runtime-rate.d7aa8ac7.js",
+    "runtime-rate.js.map": "/static/js/runtime-rate.d7aa8ac7.js.map",
+    "runtime-trade.js": "/static/js/runtime-trade.8c9d7996.js",
+    "runtime-trade.js.map": "/static/js/runtime-trade.8c9d7996.js.map",
+    "trade.js": "/static/js/trade.4b032d95.chunk.js",
+    "trade.js.map": "/static/js/trade.4b032d95.chunk.js.map",
+    "static/js/5.a0b98bd2.chunk.js": "/static/js/5.a0b98bd2.chunk.js",
+    "static/js/5.a0b98bd2.chunk.js.map": "/static/js/5.a0b98bd2.chunk.js.map",
+    "index.html": "/index.html",
+    "rate.html": "/rate.html",
+    "static/js/0.eafe9059.chunk.js.LICENSE.txt": "/static/js/0.eafe9059.chunk.js.LICENSE.txt",
+    "trade.html": "/trade.html"
+  },
+  "entrypoints": {
+    "trade": [
+      "static/js/runtime-trade.8c9d7996.js",
+      "static/js/0.eafe9059.chunk.js",
+      "static/js/trade.4b032d95.chunk.js"
+    ],
+    "rate": [
+      "static/js/runtime-rate.d7aa8ac7.js",
+      "static/js/0.eafe9059.chunk.js",
+      "static/js/rate.27840d94.chunk.js"
+    ]
+  }
+}
